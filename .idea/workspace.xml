@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02c77288-b5a0-412c-bd6d-ffb0f22e1d74" name="Changes" comment="feat: cria projeto / funções de conter, iniciar e terminar na string">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +19,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php8\php.exe" />
   <component name="ProjectId" id="2QIQImvAvlkHLpktDwgQbycURFC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,15 +42,19 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="PHP Script.url.php">
+  <component name="RunManager" selected="PHP Script.usuario.php">
     <configuration name="primeira-aula.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/primeira-aula.php">
       <method v="2" />
     </configuration>
     <configuration name="url.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/url.php">
       <method v="2" />
     </configuration>
+    <configuration name="usuario.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/usuario.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.usuario.php" />
         <item itemvalue="PHP Script.url.php" />
         <item itemvalue="PHP Script.primeira-aula.php" />
       </list>
@@ -58,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685038538049</updated>
-      <workItem from="1685038539055" duration="1263000" />
+      <workItem from="1685038539055" duration="5368000" />
     </task>
     <servers />
   </component>
