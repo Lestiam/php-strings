@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02c77288-b5a0-412c-bd6d-ffb0f22e1d74" name="Changes" comment="feat: cria projeto / funções de conter, iniciar e terminar na string">
-      <change afterPath="$PROJECT_DIR$/usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aparando-strings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telefones.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/usuario.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +43,21 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="PHP Script.usuario.php">
-    <configuration name="primeira-aula.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/primeira-aula.php">
+  <component name="RunManager" selected="PHP Script.aparando-strings.php">
+    <configuration name="aparando-strings.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/aparando-strings.php">
       <method v="2" />
     </configuration>
-    <configuration name="url.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/url.php">
+    <configuration name="explode.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/explode.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="telefones.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/telefones.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="teste.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/teste.php">
       <method v="2" />
     </configuration>
     <configuration name="usuario.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/usuario.php">
@@ -54,9 +65,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.aparando-strings.php" />
         <item itemvalue="PHP Script.usuario.php" />
-        <item itemvalue="PHP Script.url.php" />
-        <item itemvalue="PHP Script.primeira-aula.php" />
+        <item itemvalue="PHP Script.teste.php" />
+        <item itemvalue="PHP Script.explode.php" />
+        <item itemvalue="PHP Script.telefones.php" />
       </list>
     </recent_temporary>
   </component>
@@ -68,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685038538049</updated>
-      <workItem from="1685038539055" duration="5368000" />
+      <workItem from="1685038539055" duration="11436000" />
     </task>
     <servers />
   </component>

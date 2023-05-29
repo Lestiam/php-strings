@@ -1,6 +1,8 @@
 <?php
 //existe uma extensão em PHP que consegue lidar com multi-bytes, ou seja, consegue reconhecer acentos, para utiliza-lo, basta colocar "mb_" antes de uma função de string.
-$email = 'ígor@alura.com.br'; //um pedaço de uma string é chamado de substring
+
+$nome = 'Ígor Teles';
+$email = ' ígor@alura.com.br '; //um pedaço de uma string é chamado de substring
 $email2 = 'LESTIAN@alura.com.br'; //um pedaço de uma string é chamado de substring
 
 $senha = 'áéíóú';
@@ -21,3 +23,14 @@ echo mb_strtoupper($usuario) . PHP_EOL; //transforma em letra maiuscula, na verd
 echo strtolower($usuario2) . PHP_EOL; //transforma em letra minuscula, na verdade ela retorna uma outra string só que em minuscula
 
 echo substr($email, $posicaoDoArroba + 1) . PHP_EOL; //se eu não informar o número de caracteres, ele pega do inicio até o final
+
+list($nome, $sobrenome) = explode(' ', $nome); //explode minha string em pedaços e divide os pedaços em arrays e o list serve para armazenar o primeiro array na primeira variavel e o segundo array na segunda variavel.
+// Pede um separador, que é o que ele vai levar em consideração para dividir a frase/palavra
+
+echo 'Nome: ' . $nome . PHP_EOL;
+echo 'Sobrenome: ' . $sobrenome . PHP_EOL;
+
+$csv = 'Igor Teles,30,igor@alura.com.br';
+var_dump(explode(',', $csv)); //separei minha string em 3 partes usando a virgula como separador
+
+echo trim($email) . PHP_EOL; //em ingles quer dizer "aparar", apara as pontas, ele retira os espaços em branco
