@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02c77288-b5a0-412c-bd6d-ffb0f22e1d74" name="Changes" comment="feat: cria projeto / funções de conter, iniciar e terminar na string">
-      <change afterPath="$PROJECT_DIR$/aparando-strings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/explode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telefones.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numeros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/substituicoes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/usuario.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,29 +47,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="PHP Script.aparando-strings.php">
-    <configuration name="aparando-strings.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/aparando-strings.php">
+  <component name="RunManager" selected="PHP Script.documentacao.php">
+    <configuration name="html.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php-strings/html.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="explode.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/explode.php">
+    <configuration name="documentacao.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/documentacao.php">
       <method v="2" />
     </configuration>
-    <configuration name="telefones.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/telefones.php">
+    <configuration name="email.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/email.php">
       <method v="2" />
     </configuration>
-    <configuration name="teste.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/teste.php">
+    <configuration name="numeros.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/numeros.php">
       <method v="2" />
     </configuration>
-    <configuration name="usuario.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/usuario.php">
+    <configuration name="substituicoes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/substituicoes.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.aparando-strings.php" />
-        <item itemvalue="PHP Script.usuario.php" />
-        <item itemvalue="PHP Script.teste.php" />
-        <item itemvalue="PHP Script.explode.php" />
-        <item itemvalue="PHP Script.telefones.php" />
+        <item itemvalue="PHP Script.documentacao.php" />
+        <item itemvalue="PHP Script.substituicoes.php" />
+        <item itemvalue="JavaScript Debug.html.php" />
+        <item itemvalue="PHP Script.email.php" />
+        <item itemvalue="PHP Script.numeros.php" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685038538049</updated>
-      <workItem from="1685038539055" duration="11436000" />
+      <workItem from="1685038539055" duration="17071000" />
     </task>
     <servers />
   </component>
