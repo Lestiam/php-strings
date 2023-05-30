@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02c77288-b5a0-412c-bd6d-ffb0f22e1d74" name="Changes" comment="feat: cria projeto / funções de conter, iniciar e terminar na string">
-      <change afterPath="$PROJECT_DIR$/documentacao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numeros.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/substituicoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="PHP Script.documentacao.php">
+  <component name="RunManager" selected="PHP Script.regex.php">
     <configuration name="html.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php-strings/html.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -57,7 +53,7 @@
     <configuration name="email.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/email.php">
       <method v="2" />
     </configuration>
-    <configuration name="numeros.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/numeros.php">
+    <configuration name="regex.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/regex.php">
       <method v="2" />
     </configuration>
     <configuration name="substituicoes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/substituicoes.php">
@@ -65,11 +61,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.regex.php" />
         <item itemvalue="PHP Script.documentacao.php" />
         <item itemvalue="PHP Script.substituicoes.php" />
         <item itemvalue="JavaScript Debug.html.php" />
         <item itemvalue="PHP Script.email.php" />
-        <item itemvalue="PHP Script.numeros.php" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685038538049</updated>
-      <workItem from="1685038539055" duration="17071000" />
+      <workItem from="1685038539055" duration="20934000" />
     </task>
     <servers />
   </component>
